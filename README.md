@@ -1,4 +1,4 @@
-# 🧪 Lab Notes & Standalone Scripts
+# 🧪 Standalone Scripts
 
 A personal repository for isolated scripts, algorithmic practice, and language-specific explorations. This repo serves as a functional reference and testing ground to refine syntax fluency, verify core software engineering concepts, and maintain daily coding consistency.
 
